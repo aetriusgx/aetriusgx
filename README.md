@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Winston.js and a Pong game
 - 🌱 I’m currently learning C#
+- 🏆 Proficient at Javascript and Python
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I started programming when I was 12
 
