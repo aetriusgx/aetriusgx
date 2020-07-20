@@ -2,7 +2,7 @@
 I'm an 18 year old backend developer from California☀ with experience mostly in Javascript. I first started programming from [ModPE](https://github.com/topics/modpe) though most of my work from that era has been erased from this profile before archiving/private repos became a free feature. I'm currently part of the CS++ cohort from Cal State Monterey Bay 
 doing work with [Discord.js](https://github.com/discordjs) and making my own applications (those are private atm).
 
-<img align="right" alt="CSUMB" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
+<img align="right" alt="CSUMB" width="140px" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
 
 **Info about me**
 - 🔭 I’m currently working on Winston.js and a Pong game
