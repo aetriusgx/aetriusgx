@@ -5,7 +5,7 @@ doing work with [Discord.js](https://github.com/discordjs) and making my own app
 <img align="right" alt="CSUMB" width="140px" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
 
 **Info about me**
-- 🔭 I’m currently working on Winston.js and a Pong game
+- 🔭 I’m currently working on CS7+Bot and a Pong game
 - 🌱 I’m currently learning C#
 - 🏆 Proficient at Javascript and Python. Mostly backend stuff
 - 🌈 Pronouns: He/They
