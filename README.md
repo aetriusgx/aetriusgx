@@ -1,12 +1,11 @@
 ### 👋🏼 Hey, I'm [kovuko](https://linktr.ee/kovuko)!
-I'm an 18 year old backend developer from California☀ with experience mostly in Javascript. I first started programming from [ModPE](https://github.com/topics/modpe) though most of my work from that era has been erased from this profile before archiving/private repos became a free feature. I'm currently part of the CS++ cohort from Cal State Monterey Bay 
-doing work with [Discord.js](https://github.com/discordjs) and making my own applications (those are private atm).
+I'm an 18 year old backend developer from California with experience mostly in Javascript. I first started programming from [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 80% of my work is private at the moment.
 
 <img align="right" alt="CSUMB" width="140px" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
 
 **Info about me**
-- 🔭 I’m currently working on CS7+Bot and a Pong game
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on CS7 Bot and a Pong game
+- 🌱 I’m currently learning C# and React
 - 🏆 Proficient at Javascript and Python. Mostly backend stuff
 - 🌈 Pronouns: He/They
 - ⚡ Fun fact: I started programming when I was 12
