@@ -10,7 +10,8 @@ I'm an 18 year old backend developer from California with experience mostly in J
 - 🌈 Pronouns: He/They
 - ⚡ Fun fact: I started programming when I was 12
 
-![My stats](https://github-readme-stats.vercel.app/api?username=kovuko&show_icons=true&count_private=true&theme=tokyonight)
+![My stats](https://github-readme-stats.vercel.app/api?username=kovuko&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovuko)
 <br/>
 <a href="https://twitter.com/kovuuko"><img align="left" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
 <a href="https://instagram.com/kovuuko"><img align="left" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
