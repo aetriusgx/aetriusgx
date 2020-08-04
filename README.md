@@ -4,8 +4,8 @@ I'm an 18 year old backend developer from California with experience mostly in J
 <img align="right" alt="CSUMB" width="140px" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
 
 **Info about me**
-- 🔭 I’m currently working on CS7 Bot and a Pong game
-- 🌱 I’m currently learning C# and React
+- 🔭 I’m currently working on CS7 Bot
+- 🌱 I’m currently learning Java and React
 - 🏆 Proficient at Javascript and Python. Mostly backend stuff
 - 🌈 Pronouns: He/They
 - ⚡ Fun fact: I started programming when I was 12
