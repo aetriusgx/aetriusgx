@@ -8,7 +8,7 @@ I'm an 19 year old backend developer from California with experience mostly in J
 - 🌱 I’m currently learning C++ and Typescript
 - 🏆 Proficient at Javascript and Python. Mostly backend stuff
 - 🌈 Pronouns: They/Them
-- ⚡ Fun fact: I started programming when I was 12
+- ⚡ Fun fact: I have an AS in Mechanics
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=kovuko&show_icons=true&count_private=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovuko&layout=compact)
