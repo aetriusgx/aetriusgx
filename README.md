@@ -1,5 +1,5 @@
 ### 👋🏼 Hey, I'm [kovuko](https://linktr.ee/kovuko)!
-I'm an 19 year old trans-nonbinary backend developer from California with experience mostly in Javascript. I first started programming with [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 80% of my work is private at the moment.
+I'm an 20 year old trans-nonbinary backend developer from California with experience mostly in Javascript. I first started programming with [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 80% of my work is private at the moment.
 
 <img align="right" alt="CSUMB" width="140px" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
 
