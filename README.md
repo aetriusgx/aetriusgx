@@ -1,16 +1,15 @@
-### 👋🏼 Hey, I'm [kovuko](https://linktr.ee/kovuko)!
+### 👋🏼 Hey, I'm kovuko, or Robin!
 I'm an 20 year old trans-nonbinary backend developer from California with experience mostly in Javascript. I first started programming with [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 80% of my work is private at the moment.
 
 <img align="right" alt="CSUMB" width="140px" src="https://pbs.twimg.com/profile_images/528708685862678528/uxh9cZse_400x400.jpeg"/>
 
 **Info about me**
-- 🔭 I’m currently working on CS7 Bot
-- 🌱 I’m currently learning C++ and Typescript
-- 🏆 Proficient at Javascript and Python. Mostly backend stuff
+- 🔭 I’m currently interning for Google
+- 🌱 I’m currently learning C++ and Java
+- 🏆 Proficient at Javascript and Python
 - 🌈 Pronouns: They/Them
 - ⚡ Fun fact: I have an AS in Mechanics
 
-![My stats](https://github-readme-stats.vercel.app/api?username=kovuko&show_icons=true&count_private=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovuko&layout=compact)
 <br/>
 <a href="https://twitter.com/kovuuko"><img align="left" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
