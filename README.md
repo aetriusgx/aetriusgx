@@ -1,5 +1,5 @@
 ### 👋🏼 Hey, I'm kovuko, or Robin!
-I'm an 20 year old trans-nonbinary backend developer from California with experience mostly in Javascript. I first started programming with [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 80% of my work is private at the moment.
+I'm an 21 year old trans-nonbinary backend developer from California with experience mostly in Javascript. I first started programming with [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 80% of my work is private at the moment.
 
 **Info about me**
 - 🔭 I’m currently working as a tutor
