@@ -1,15 +1,22 @@
-### 👋🏼 Hey, I'm aetrius, or Robin!
-I'm an 22 year old trans-nonbinary backend developer from California with experience mostly in C++ and Javascript. I first started programming with [ModPE](https://github.com/topics/modpe). I'm currently part of the CS++ cohort from Cal State Monterey Bay. I'd say about 40% of my work is private at the moment.
+Hi, I'm Robin (or Avery) (***she/they***)! I'm a recent graduate at Cal State Monterey Bay with a Bachelors degree in Computer Science - Software Engineering. This is my personal and professional repo until things are properly comparmentalized into a Git org. 
 
-**Info about me**
-- 🔭 I’m currently serving on Associated Students
-- 🌱 I’m currently learning Kotlin
-- 🏆 Proficient at C++, Typescript, and Python
-- 🌈 Pronouns: They/Them
-- ⚡ Fun fact: I've interned at Google 3 times!
+> I now work in CSUMB's Department of Applied Environmental Science as a Research Asisstant!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aetriusgx&layout=compact)
-<br/>
-<a href="https://twitter.com/aetrius_fm"><img align="left" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-<a href="https://instagram.com/rxbinaf"><img align="left" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
-<a href="https://twitch.tv/aetriusgx"><img align="left" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/></a>
+### What I'm Working On
+🧑🏽Personal
+* Website
+* Minecraft SMP Private Software
+  
+💧OpenET
+* Forecasting Endpoint Analysis (FRET & Dynamic Time Warping)
+* Flux Footprint Analysis
+* Fuel Moisture Interface and Model Implementation
+
+![Aetrius' GitHub stats](https://github-readme-stats.vercel.app/api?username=aetriusgx&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)
+
+Previous Experiences:
+* Google SWE Intern (Summer 2021, 2022, 2023)
+* CSUMB [Tutoring](https://csumb.edu/clc/) for Computer Science (AY 2022/23)
+* [CTI](https://computingtalentinitiative.org/)Student Asisstant
+
+![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aetriusgx&hide=css,javascript,html,jupyter%20notebook&theme=radical&layout=compact&exclude_repo=metallurgy,metallurgyclassicmachines,old-modpe,CodePath-SimpleToDo)
